@@ -10,7 +10,7 @@ Software Developer | Frontend & Full-Stack Enthusiast | AI + HealthTech Builder 
 ---
 
 ## 🚀 About Me
-- 🎓 **B.E. Computer Science** @ CMR Institute of Technology, Bengaluru (CGPA: **8.71**)
+- 🎓 **B.E. Computer Science** @ CMR Institute of Technology, Bengaluru (CGPA: **8.83**)
 - 💻 **Software Developer Intern** at **Liwing India** (Mar 2025 – Sep 2025)
 - 🧠 Building **AI-driven & health-tech solutions**
 - 🏆 Hackathon winner & IEEE-ranked participant
